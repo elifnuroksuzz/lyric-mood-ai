@@ -1,0 +1,25 @@
+# Core dependencies
+python-dotenv>=1.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Data processing
+lxml>=4.9.0
+pandas>=1.5.0
+
+# Web UI dependencies
+streamlit>=1.47.0
+plotly>=5.15.0
+
+# Development and code quality
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.5.0
+
+# Testing (optional)
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Additional utilities
+colorama>=0.4.6
+rich>=13.0.0
