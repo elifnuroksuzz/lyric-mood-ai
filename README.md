@@ -70,9 +70,14 @@ Uygulama çalışması için aşağıaki API anahtarlarına ihtiyaç duyar:
 - **Genius API**: Şarkı sözlerini çekmek için
 - **Groq AI API**: Duygu analizi için
 
+
 ## 📄 Lisans
 
-Bu proje açık kaynak kodludur.
+Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
+
+```
+MIT License © 2025 Elif Nur Öksüz
+```
 
 ## 👨‍💻 Geliştirici
 
@@ -83,6 +88,27 @@ Bu proje açık kaynak kodludur.
 ---
 
 *Bu proje, müzik ve teknoloji arasındaki köprüyü kurarak şarkı sözlerindeki duyguları anlamaya yönelik geliştirilmiştir.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
